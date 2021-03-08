@@ -1,4 +1,4 @@
-package testPckage;
+package secondPackage;
 
 public class FirstAfterBranchX {
 
