@@ -10,6 +10,7 @@ public class Addition
 		System.out.println("Addition of numbers is =="+c);
 		//Comment is added on remote on same line
 		//I want to add multiplication code here
+		//What to say now I don't know
 	}
 
 }
